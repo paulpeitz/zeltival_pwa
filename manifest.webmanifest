@@ -1,7 +1,7 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
+  "name": "Zeltival",
+  "short_name": "Zeltival",
+  "description": "Zeltival 2026",
   "scope": "/zeltival_pwa/",
   "start_url": "/zeltival_pwa/",
   "background_color": "#ffffff",
