@@ -95,13 +95,13 @@
 							var myArray = document.getElementsByClassName('box');
 							var arr = Array.from(myArray);
 							var playing = box.style.color;
-							  if (playing == 'rgb(255, 120, 0)'){
+							  if (playing == 'rgb(0, 120, 0)'){
 								EmbedController.pause();
 								arr.forEach((item,counter)=>(item.style.color = "#333333"));
 							  } else {
 								EmbedController.play();
 								arr.forEach((item,counter)=>(item.style.color = "#333333"));
-								box.style.color = "#FF7800";
+								box.style.color = "#007800";
 							  }
 						});
 					  })
